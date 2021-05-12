@@ -42,9 +42,9 @@
     ".eslintignore": true,
     "dist": true,
     "node_modules": true,
+    "eslintrc.json": true,
     "tsconfig.json": true,
     "package-lock.json": true,
-    "readme.md": true,
     "LICENSE": true,
     "CONTRIBUTING.md": true
   }
